@@ -13,4 +13,11 @@
         <attr name="onRefreshCommand" format="reference" />
         <attr name="onLoadMoreCommand" format="reference" />
     </declare-styleable>
+
+    <declare-styleable name="RelativeView">
+        <attr name="title_text_color" format="color"/>
+        <attr name="title_bg" format="color"/>
+        <attr name="title_text" format="string"/>
+
+    </declare-styleable>
 </resources>

@@ -48,4 +48,12 @@ dependencies {
     //内存泄漏测试
     debugImplementation 'com.squareup.leakcanary:leakcanary-android:1.6.3'
     debugImplementation 'com.squareup.leakcanary:leakcanary-support-fragment:1.6.3'
+
+
+    implementation 'com.adjust.sdk:adjust-android:4.33.4'
+    implementation 'com.android.installreferrer:installreferrer:2.2'
+    implementation 'com.adjust.sdk:adjust-android-webbridge:4.33.4'
+    implementation 'com.google.android.gms:play-services-ads-identifier:18.0.1'
+    implementation 'com.appsflyer:af-android-sdk:6.9.0'
+
 }

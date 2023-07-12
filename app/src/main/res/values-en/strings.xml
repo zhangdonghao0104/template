@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">test</string>
+    <string name="login_account">account</string>
+    <string name="input_account">please enter an account</string>
+    <string name="login_password">password</string>
+    <string name="input_password">please enter an password</string>
+    <string name="login_btn">login</string>
+    <string name="v_code_login">sign up</string>
 </resources>

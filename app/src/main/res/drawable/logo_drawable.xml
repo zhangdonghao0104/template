@@ -1,0 +1,11 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:width="1600dp"
+        android:height="1600dp"
+        android:drawable="@drawable/background_shape" />
+    <item
+        android:drawable="@drawable/logo"
+        android:width="@dimen/dp_60"
+        android:height="@dimen/dp_60"
+        android:gravity="center" />
+</layer-list>

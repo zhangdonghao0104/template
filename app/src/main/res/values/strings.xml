@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">测试</string>
+    <string name="app_name">Huuuge777</string>
+    <string name="login_account" translatable="true">account</string>
+    <string name="input_account" translatable="true">please enter an account</string>
+    <string name="login_password" translatable="true">password</string>
+    <string name="input_password" translatable="true">please enter an password</string>
+    <string name="login_btn" translatable="true">login</string>
+    <string name="v_code_login" translatable="true">sign up</string>
 </resources>
